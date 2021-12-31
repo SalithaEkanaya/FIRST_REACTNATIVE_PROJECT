@@ -26,8 +26,8 @@ export default function App() {
     // <Signleviewscreen />
 
     // <Screen>
-    //   <Icon name="email" size={50} backgroundColor='red' iconColor='#fff'> </Icon>
-    // </Screen>
+    // //   <Icon name="email" size={50} backgroundColor='red' iconColor='#fff'> </Icon>
+    // // </Screen>
     // <ViewImageScreen />
     // <Messagescreen />
     // <Accountscreen />
